@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "753363020941",
+    "project_id": "food-ordering-app-18833",
+    "storage_bucket": "food-ordering-app-18833.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753363020941:android:2cca2a982b39d142dfc6c4",
+        "android_client_info": {
+          "package_name": "com.example.adminfoodorderingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCScx2F_OBK659YBdZYv1pE3wvopCmghSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753363020941:android:87a76ff6587b94bbdfc6c4",
+        "android_client_info": {
+          "package_name": "com.example.foodorderingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCScx2F_OBK659YBdZYv1pE3wvopCmghSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

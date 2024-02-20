@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Food Ordering App</string>
+    <string name="next">Next</string>
+    <string name="burger_ingredients">1.Chicken Breasts \n2.Plain Yogurt \n3.Water \n4.Salt \n5.Egg \n6.Burger Buns \n7.Oil</string>
+    <string name="burger_description">Experience the deliciousness of Tower Zinger only for Tk.399. Indulge in the perfect combination of a crispy zinger fillet, 2 vegetable patties, fresh tomatoes &amp; iceberg lettuce, a slice of cheese, and a dollop of mayonnaise all in a single bite!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+
+
+</resources>

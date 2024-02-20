@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Admin Food Ordering App</string>
+    <string name="default_web_client_id">AIzaSyCScx2F_OBK659YBdZYv1pE3wvopCmghSo</string>
+    <string name="description_demo">A sandwich consisting of a bun, a cooked beef patty, and often other ingredients such as cheese, onion slices, lettuce, or condiments. Often used in combination.</string>
+</resources>
